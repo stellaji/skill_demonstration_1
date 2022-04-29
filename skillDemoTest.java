@@ -7,4 +7,3 @@ public class skillDemoTest {
         assertEquals(5, skillDemo.multiply(1, 5)); //This test should pass
     }
 }
-g
